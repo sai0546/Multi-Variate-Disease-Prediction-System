@@ -1,12 +1,13 @@
+
 ## Multi-Variate Disease Prediction System
 
 **A Streamlit-based disease surveillance platform that leverages deep learning to predict outbreaks of infectious and chronic diseases using multi-source data.**
 
 ---
 
-# What is EpiPredict?
+# What is Multi Variate Disease Prediction System?
 
-**EpiPredict** is an intelligent disease outbreak prediction system that leverages Artificial Intelligence and Machine Learning to analyze health data, environmental factors, and real-time information streams. The platform helps healthcare authorities detect potential disease outbreaks before they escalate, enabling proactive intervention and effective public health management.
+It is an intelligent disease outbreak prediction system that leverages Artificial Intelligence and Machine Learning to analyze health data, environmental factors, and real-time information streams. The platform helps healthcare authorities detect potential disease outbreaks before they escalate, enabling proactive intervention and effective public health management.
 
 The system currently focuses on predicting common infectious and chronic diseases, including:
 
@@ -19,6 +20,40 @@ using publicly available datasets while providing an intuitive analytics dashboa
 > **Identify disease risks early, respond proactively, and protect communities with AI-powered predictive insights.**
 
 ---
+
+
+<div align="center">EpiPredict</div>
+<div align="center">
+AI-Powered Disease Outbreak Prediction System
+A Streamlit-based disease surveillance platform that leverages deep learning
+to predict outbreaks of infectious and chronic diseases using multi-source data.
+
+
+— AI & Deep Learning —
+
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white
+https://img.shields.io/badge/LSTM-003B6F?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+
+
+— Languages & Frameworks —
+
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
+https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+
+
+— Data Processing & Visualization —
+
+https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Seaborn-0B556A?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white
+
+</div>
+
+
 
 # Why EpiPredict?
 
