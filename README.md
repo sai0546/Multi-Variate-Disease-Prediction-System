@@ -1,5 +1,3 @@
-# EpiPredict
-
 ## Multi-Variate Disease Prediction System
 
 **A Streamlit-based disease surveillance platform that leverages deep learning to predict outbreaks of infectious and chronic diseases using multi-source data.**
